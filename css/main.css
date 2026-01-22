@@ -1,0 +1,22 @@
+/* Variables Css */
+
+:root{
+    /*colors*/
+    --main-bg-color: #FD275F;
+    --main-bg-color-hover: #E35A78;
+    --secundary-color: #060F20;
+    --blue-color: #53C7F0;
+    --white: #ffffff;
+    --black-color: #000000;
+    /*Fonts*/
+    --main-font-family: 'Saira' , sans-serif;
+    --secundary-font-family: 'kanit', sans-serif;
+    /*other settings*/
+    --border-radius: 50px;
+    --letter-spacing: 2px;
+    --padding-section: 5rem;
+}
+
+body{
+    font-family: var(--main-font-family);
+}
